@@ -1,3 +1,4 @@
+<img width="708" alt="image" src="https://github.com/user-attachments/assets/fafea4f2-b134-4546-944d-5c899dbc4bdb">
 # MScBioinformatics_UoB_2324_Thesis_2588815
 This is a repository for 2588815 MSc Bioinformatics thesis project aiming to maintain reproducibility and sharing executed codes from thesis dissertation. 
 
