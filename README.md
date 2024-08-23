@@ -21,10 +21,12 @@ For scripts,
 - 8: NK-NKT AUCells regulon (C3:TFT, MSigDB)
 - 9: NK-NKT AUCells Tidy:Heatmap and other visualizations
 
+
 For supplementary tables,
 Please download supplementary table into local computer
 -Table. S1: Proportional analysis result table
 -Table. S2: Geneset, Pathway, Regulon enrichment analysis outcomes 
+
 
 
 **Schedule**
