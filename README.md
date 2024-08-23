@@ -25,10 +25,8 @@ For scripts,
 For supplementary tables,
 
 Please download supplementary table into local computer
-
--Table. S1: Proportional analysis result table
-
--Table. S2: Geneset, Pathway, Regulon enrichment analysis outcomes 
+- Table. S1: Proportional analysis result table
+- Table. S2: Geneset, Pathway, Regulon enrichment analysis outcomes 
 
 
 
