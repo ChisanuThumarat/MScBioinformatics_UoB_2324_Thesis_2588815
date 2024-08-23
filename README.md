@@ -30,16 +30,11 @@ Please download supplementary table into local computer
 
 
 
-**Schedule**
-20-26 Aug 24: Code availability scripts uploaded, confidential info clean up 
-
-26 Aug 24: Supplementary data (Table. S1 and Table S2). 
-
 **History**
 
 19 Aug 24: High resolution figures uploaded into google drive
 
-23 Aug 24: Uploaded all scripts and supplementary table S1:
+23 Aug 24: Uploaded all scripts and supplementary tables:
 
   
 
