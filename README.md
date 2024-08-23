@@ -4,16 +4,16 @@ This is a repository for 2588815 MSc Bioinformatics thesis project aiming to mai
 
 This repository will have both code availability, and supplementary data. 
 
-High resolution figures from Fig2-7, and Fig. S1 are available via google drive uploaded. 
+**High resolution figures from Fig2-7, and Fig. S1 are available via google drive uploaded. **
 URL: https://drive.google.com/drive/folders/1UWPf8X1-y62nv4RkDBIRYKvXfmtxD8Q5?usp=drive_link (Anyone with link): 1,200 DPI TIFF file 
 
 
-Schedule
+**Schedule**
 20-26 Aug 24: Code availability scripts uploaded, confidential info clean up 
 
 26 Aug 24: Supplementary data (Table. S1 and Table S2). 
 
-History
+**History**
 
 19 Aug 24: High resolution figures uploaded into google drive
 
