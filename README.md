@@ -17,8 +17,10 @@ History
 
 19 Aug 24: High resolution figures uploaded into google drive
 
-23 Aug 24: Uploaded scripts No. 0-3 :
+23 Aug 24: Uploaded scripts No. 0-3 and supplementary table S1:
 - 0: Packages
 - 1: QC and DoubletFinder
 - 2: Merging
 - 3: Harmony integration/SCTransform and 1st Unsupervised clustering
+
+-Table. S1: Proportional analysis result table
